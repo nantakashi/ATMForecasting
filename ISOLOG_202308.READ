@@ -1,0 +1,7 @@
+Isologid = kode setiap transaksi
+iso3 = ISO3 : kode proses (penarikan = 01xxxx & pengisian mesin atm = 550000)
+iso4 = nominal tunai
+iso41 = atmid
+sdate = tanggal transaksi
+
+Prediksi kapan stok tunai atm akan habis dengan menggunakan metode graph neural network
